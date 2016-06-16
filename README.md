@@ -7,4 +7,10 @@ this 1
 this 2
 But if this happens
 EXIT fast
-END}
+END
+}
+
+Function 2
+{
+Text := 1000;
+}
