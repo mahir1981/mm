@@ -1,4 +1,4 @@
-# Software MM
+# Software MM-Rocks
 
 Function 1
 {
