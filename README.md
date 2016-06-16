@@ -12,5 +12,5 @@ END
 
 Function 2
 {
-Text := 1000;
+Text := 3333;
 }
